@@ -1,0 +1,36 @@
+# Ruby Version
+ruby 3.2.2
+
+# Rails Framework
+rails 8.0.1
+
+# Database
+pg 1.4.4
+
+# Frontend Framework (to be integrated later)
+webpacker 6.5.0
+yarn 1.22.19
+
+# Authentication and Authorization
+bcrypt 3.1.18
+pundit 2.1.1
+
+# Pagination for Listings
+kaminari 1.2.2
+
+# Notifications (Optional for MVP)
+sidekiq 7.0.1
+actioncable 7.0.6
+
+# Testing Tools
+rspec-rails 6.0.1
+capybara 3.37.1
+factory_bot_rails 6.2.1
+
+# Utilities
+faker 2.21.0  # To generate fake data for testing
+dotenv-rails 3.1.1  # For managing environment variables
+
+# DevOps and Deployment
+puma 6.0.2  # Web server for Rails
+foreman 0.88.0  # For managing development environment processes
